@@ -9,9 +9,9 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 public class ApigatewayApplication {
 
 	public static void main(String[] args) {
-
         System.out.println("ApiGateway Application Started ..............! ");
 		SpringApplication.run(ApigatewayApplication.class, args);
 	}
 
 }
+ 
